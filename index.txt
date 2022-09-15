@@ -1,0 +1,3 @@
+this is index.txt file.
+it shows the demo of creating local repo.
+Adding new line in the index.txt file.
